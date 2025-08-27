@@ -16,7 +16,7 @@ If you have something *not-awesome* to contribute, here’s how:
 
 You'll need a [GitHub account](https://github.com/join) (sorry about that part).
 
-1. Access the not-awesome list’s GitHub page. For example: [https://github.com/example/not-awesome](https://github.com/example/not-awesome)
+1. Access the not-awesome list’s GitHub page. For example: [https://github.com/supermarsx/not-awesome](https://github.com/supermarsx/not-awesome)
 2. Click on the `readme.md` file. Or any file, really. We don’t care.
 3. Click on the edit icon and type something, anything. Bonus points if it breaks Markdown.
 4. Say why you’re proposing the changes (or just type ¯\\*(ツ)*/¯).
